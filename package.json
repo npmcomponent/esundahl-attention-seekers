@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-attention-seekers",
+  "description": "attention seekers animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-flash": "git://github.com/npmcomponent/esundahl-flash.git",
+    "esundahl-bounce": "git://github.com/npmcomponent/esundahl-bounce.git",
+    "esundahl-shake": "git://github.com/npmcomponent/esundahl-shake.git",
+    "esundahl-tada": "git://github.com/npmcomponent/esundahl-tada.git",
+    "esundahl-swing": "git://github.com/npmcomponent/esundahl-swing.git",
+    "esundahl-wobble": "git://github.com/npmcomponent/esundahl-wobble.git",
+    "esundahl-wiggle": "git://github.com/npmcomponent/esundahl-wiggle.git",
+    "esundahl-pulse": "git://github.com/npmcomponent/esundahl-pulse.git"
+  },
+  "license": "MIT"
+}
